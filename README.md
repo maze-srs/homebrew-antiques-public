@@ -44,4 +44,5 @@ The artwork is **not included** in this repository (the `game/images/` folder is
 - Music and sound effects (royalty free) from:  https://pixabay.com/ and https://freesound.org/
 
 ## License
+The code is released under the [MIT License](LICENSE).
 The artwork belongs to its artist and is not covered by the code's license.
